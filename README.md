@@ -1,2 +1,2 @@
-# X-O-Guessing-Game
-X-O Guessing Game
+# X-O-Game
+X-O Game
